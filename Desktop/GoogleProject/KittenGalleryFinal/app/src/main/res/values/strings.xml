@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kitten Gallery</string>
+    <string name="main_header">Welcome to Kitten Gallery!</string>
+    <string name="exit_button">Exit App</string>
+</resources>
